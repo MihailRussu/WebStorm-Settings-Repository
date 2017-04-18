@@ -5,5 +5,8 @@
   <action id="Macro.re-format &amp; save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Macro.re-format &amp;&amp; save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="SaveAll" />
 </keymap>
